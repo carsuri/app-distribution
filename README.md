@@ -1,8 +1,27 @@
-## 앱 다운로드
+## 카매니저앱 다운로드
+
+### 운영 환경
+
+#### [1.5.8(11)](https://public.carsuri.co.kr/apps/com.carang.carmanager-RELEASE-1.5.8(11)-20241017.apk)
+
+**예약 목록 UI 개선**
+- 달력 보기, 카드 뷰 보기로 구분. 기존 검색 필터는 유지
+- 예약 카드 뷰 콘텐츠 일부 변경 (구매일시, 상품명 등)
+  
+**지도로 보기 기능 추가**
+- 방문 위치 확인 및 날짜 별 조회 가능
+- 지도 화면 내 정보 창 선택 시 예약 상세로 이동
+  
+**예약정보 탭 UI 개선**
+- 시간 선택 UI 개선: AM/PM 선택 가능
+- 결제 정보 개선: 상세 할인 정보 표시 추가
+- 부품정보 조회: 예약정보 탭에 부품 정보 추가
+- 매니저간 공유 내용 개선: 수정, 삭제 기능 추가
+- 자주 사용하는 안내 메시지 발송 기능: 일정 조율 안내 메세지 추가
+
+#### [1.5.7(10)](https://public.carsuri.co.kr/apps/com.carang.carmanager-RELEASE-1.5.7(10)-20240805.apk)
+- 이전 버전
 
 ### 개발 환경
 - 준비 중입니다.
 
-### 운영 환경
-- [1.5.7(10)](https://public.carsuri.co.kr/apps/com.carang.carmanager-RELEASE-1.5.7(10)-20240805.apk)
-- [1.5.8(11)](https://public.carsuri.co.kr/apps/com.carang.carmanager-RELEASE-1.5.8(11)-20241017.apk)
