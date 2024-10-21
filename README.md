@@ -1,9 +1,3 @@
-## 카매니저앱 다운로드
-
-#### [[안드로이드 앱 다운로드]](https://play.google.com/store/apps/details?id=com.carang.carmanager)
-
-※ iOS는 지원 되지 않습니다.
-
 ## 테스트앱 다운로드
 
 ### 운영 환경
