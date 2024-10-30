@@ -1,8 +1,6 @@
-## 테스트앱 다운로드
+## 카매니저앱 다운로드
 
-### 운영 환경
-
-#### 신규 버전(1.5.8.11) [[다운로드]](https://public.carsuri.co.kr/apps/com.carang.carmanager-RELEASE-1.5.8(11)-20241017.apk)
+### 신규 버전(1.5.8.11) [[다운로드]](https://public.carsuri.co.kr/apps/com.carang.carmanager-RELEASE-1.5.8(11)-20241017.apk)
 
 **예약 목록 UI 개선**
 - 달력 보기, 카드 뷰 보기로 구분. 기존 검색 필터는 유지
@@ -19,8 +17,9 @@
 - 매니저간 공유 내용 개선: 수정, 삭제 기능 추가
 - 자주 사용하는 안내 메시지 발송 기능: 일정 조율 안내 메세지 추가
 
-#### 이전 버전(1.5.7.10) [[다운로드]](https://public.carsuri.co.kr/apps/com.carang.carmanager-RELEASE-1.5.7(10)-20240805.apk)
-- 이전 버전
+**기타 개선사항**
+- 재구매, 결제 전 라벨 색상 변경 (재구매 = 파란색, 결제 전 = 빨간색)
+- 입력한 타이어 사이즈가 유지 되지 않는 현상 개선
 
-### 개발 환경
-- 준비 중입니다.
+### 이전 버전(1.5.7.10) [[다운로드]](https://public.carsuri.co.kr/apps/com.carang.carmanager-RELEASE-1.5.7(10)-20240805.apk)
+- 이전 버전
