@@ -1,6 +1,6 @@
 ## 카매니저앱 다운로드
 
-### 신규 버전(1.5.8.11) [[다운로드]](https://public.carsuri.co.kr/apps/com.carang.carmanager-RELEASE-1.5.8(11)-20241017.apk)
+### 현재 버전(1.5.8.11) [[플레이스토어로 이동]](https://play.google.com/store/apps/details?id=com.carang.carmanager)
 
 **예약 목록 UI 개선**
 - 달력 보기, 카드 뷰 보기로 구분. 기존 검색 필터는 유지
